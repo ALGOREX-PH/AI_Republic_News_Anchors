@@ -1,6 +1,11 @@
+openai==0.28
 streamlit
-google-generativeai
-bs4
-requests
 streamlit_option_menu
 streamlit_extras
+faiss-cpu
+plotly
+openpyxl
+langchain
+langchain_community
+scipy
+scikit-learn
